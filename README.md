@@ -87,7 +87,8 @@ Actual playback quality and performance depend on the hardware, available YouTub
 
 ## License
 
-This project is licensed under GNU GENERAL PUBLIC LICENSE Version 2.
+This project is licensed under the GNU General Public License v2.0.
+See the [LICENSE](LICENSE) file for details.
 
 ## Author
 
